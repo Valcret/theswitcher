@@ -1,0 +1,5 @@
+class AjaxManager
+{
+
+}
+export{AjaxManager}
